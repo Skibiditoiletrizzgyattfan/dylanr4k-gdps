@@ -1,17 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "DylanR4k",
+        "link": "https://www.youtube.com/@dylanr4k"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Zarko",
+        "link": "https://www.youtube.com/@Zarko-x4e"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "?",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "DylanR4k (Again)",
+        "link": "https://www.youtube.com/@dylanr4k"
     }
 ]
